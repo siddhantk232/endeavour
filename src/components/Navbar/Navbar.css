@@ -1,0 +1,12 @@
+nav {
+  background-color: #080213;
+}
+
+.m-menu li:hover {
+  background-color: #6c1609;
+}
+
+.brand-logo img {
+  margin-top: 14px;
+  height: 3rem;
+}

@@ -8,9 +8,9 @@ export default function Hero() {
     return (
         <div className="Hero">
             <Particle />
-            <div className="text">
+            <h1 className="center">
                 <img src={logo} alt="" />
-            </div>
+            </h1>
         </div>
     )
 }
