@@ -1,0 +1,9 @@
+.cucard-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
