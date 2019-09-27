@@ -1,13 +1,34 @@
-.f-padding {
-    padding: 30px;
+.testi-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
 }
 
-.f-founder {
-    width: 100%;
-    padding: 30px;
+
+.item {
+    display: flex;
+    justify-content: flex-start;
 }
 
-.f-center {
-    text-align: center;
-    width: 100%;
+.owl-theme {
+    width: 40%;
+    margin-left: 0;
+}
+
+.f-heading {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+}
+.f-founders {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+.about-testimonials {
+    width: 55%;
+    text-align: justify;
 }

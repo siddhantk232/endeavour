@@ -7,7 +7,7 @@ export default function Card() {
 
 		<div className="card z-depth-3 my-color">
 			<div className="card-image">
-				<img src="https://dillu9878.github.io/Endeavour/images/gallery_images/12.JPG" alt="founder" />
+				<img src="https://dillu9878.github.io/Endeavour/images/gallery_images/12.JPG" alt="founder" className="card-img" />
 				<span className="card-title">Card Title</span>
 			</div>
 			<div className="card-content">

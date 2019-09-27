@@ -4,3 +4,30 @@
     margin: 0;
     padding: 0;
 }
+
+
+.item {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.owl-theme {
+    width: 40%;
+    margin-left: 0;
+}
+
+.t-heading {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+}
+.t-founders {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about-testimonials {
+    width: 55%;
+    text-align: justify;
+}

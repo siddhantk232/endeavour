@@ -1,16 +1,20 @@
 import React from 'react'
 
 import Particle from '../Particles/Particles';
-import logo from './e_logo_final_txt.png';
+import heroImg from './end_hero.png';
+import leadText from './lead_text.png'
 import './Hero.css';
 
 export default function Hero() {
     return (
         <div className="Hero">
             <Particle />
-            <h1 className="center">
-                <img src={logo} alt="" />
-            </h1>
+
+            <div className="img-container">
+                <img src={heroImg} alt="" className="heroImg1" />
+                <img src={leadText} alt="" className="heroImg2" />
+            </div>
+
         </div>
     )
 }

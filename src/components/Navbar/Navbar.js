@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { M } from 'materialize-css'
 
 import './Navbar.css'
 import Logo from './e_logo_final_txt.png'
