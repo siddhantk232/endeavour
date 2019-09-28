@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/css/main.50894043.chunk.css",
-    "main.js": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/js/main.79e495ae.chunk.js",
-    "main.js.map": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/js/main.79e495ae.chunk.js.map",
-    "runtime-main.js": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/js/runtime-main.c7dda02d.js",
-    "runtime-main.js.map": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/js/runtime-main.c7dda02d.js.map",
-    "static/css/2.16aca965.chunk.css": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/css/2.16aca965.chunk.css",
-    "static/js/2.69b19db3.chunk.js": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/js/2.69b19db3.chunk.js",
-    "static/js/2.69b19db3.chunk.js.map": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/js/2.69b19db3.chunk.js.map",
-    "index.html": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/index.html",
-    "precache-manifest.bbbdf77ea150e056f6179d29135f4eb8.js": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/precache-manifest.bbbdf77ea150e056f6179d29135f4eb8.js",
-    "service-worker.js": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/service-worker.js",
-    "static/css/2.16aca965.chunk.css.map": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/css/2.16aca965.chunk.css.map",
-    "static/css/main.50894043.chunk.css.map": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/css/main.50894043.chunk.css.map",
-    "static/media/blue_robot_final.png": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/media/blue_robot_final.be88052e.png",
-    "static/media/end_hero.png": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/media/end_hero.d825dd31.png",
-    "static/media/red_robot_final.png": "%7Bsiddhantk232%7D.github.io/%7Bendeavour%7D/static/media/red_robot_final.8ebb58f6.png"
+    "main.css": "/endeavour/static/css/main.50894043.chunk.css",
+    "main.js": "/endeavour/static/js/main.1d644d87.chunk.js",
+    "main.js.map": "/endeavour/static/js/main.1d644d87.chunk.js.map",
+    "runtime-main.js": "/endeavour/static/js/runtime-main.abfba13a.js",
+    "runtime-main.js.map": "/endeavour/static/js/runtime-main.abfba13a.js.map",
+    "static/css/2.16aca965.chunk.css": "/endeavour/static/css/2.16aca965.chunk.css",
+    "static/js/2.69b19db3.chunk.js": "/endeavour/static/js/2.69b19db3.chunk.js",
+    "static/js/2.69b19db3.chunk.js.map": "/endeavour/static/js/2.69b19db3.chunk.js.map",
+    "index.html": "/endeavour/index.html",
+    "precache-manifest.42e3110279ddd6fe53abb29e64d01cda.js": "/endeavour/precache-manifest.42e3110279ddd6fe53abb29e64d01cda.js",
+    "service-worker.js": "/endeavour/service-worker.js",
+    "static/css/2.16aca965.chunk.css.map": "/endeavour/static/css/2.16aca965.chunk.css.map",
+    "static/css/main.50894043.chunk.css.map": "/endeavour/static/css/main.50894043.chunk.css.map",
+    "static/media/blue_robot_final.png": "/endeavour/static/media/blue_robot_final.be88052e.png",
+    "static/media/end_hero.png": "/endeavour/static/media/end_hero.d825dd31.png",
+    "static/media/red_robot_final.png": "/endeavour/static/media/red_robot_final.8ebb58f6.png"
   }
 }
