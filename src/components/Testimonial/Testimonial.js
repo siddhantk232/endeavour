@@ -9,7 +9,7 @@ import './Testimonial.css';
 
 export default function Testimonial() {
     return (
-        <div className="f-center center">
+        <div className="f-center center" id="testimonials">
             <h1 className="white-text t-heading smt">Testimonials</h1>
             <p className="white-text t-lead" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, minus amet. Omnis fugiat </p>
             <div className="t-founders container">

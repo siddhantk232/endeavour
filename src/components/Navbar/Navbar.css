@@ -10,3 +10,31 @@ nav {
   margin-top: 14px;
   height: 3rem;
 }
+
+.gcolor-nav {
+  color: #AA076B;  /* fallback for old browsers */
+  color: -webkit-linear-gradient(to right, #61045F, #AA076B);  /* Chrome 10-25, Safari 5.1-6 */
+  color: linear-gradient(to right, #61045F, #AA076B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.mr-nav {
+  margin-right: 06%;
+  margin-top: 10px;
+}
+
+
+.s-nav-bg {
+  background: #7F00FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, rgb(139, 9, 156), #7F00FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, rgb(139, 9, 156), #7F00FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.waves-effect{
+  color: #fff;
+}
+
+.menu-ln img{
+  padding: 20px;
+  height: 90px;
+}

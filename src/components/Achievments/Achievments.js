@@ -1,16 +1,15 @@
 import React from 'react'
 
-import blueRobot from './blue_robot_final.png'
+import purpleLogo from './purple_robot_final.png'
 
-export default function Mission() {
+
+export default function About() {
   return (
-    <div className="about white-text" id="mission">
-      <div className="container">
-        <h1 className="smt">Mission & Vision</h1>
-      </div>
-      <div className="mission-section">
+    <div className="about white-text" id="achievements">
+      <h1 className="smt">Achievements</h1>
+      <div className="about-section">
         <div className="vec">
-          <img src={blueRobot} alt="robot" />
+          <img src={purpleLogo} alt="robot" />
         </div>
         <div className="about-text">
           <div className="line"></div>

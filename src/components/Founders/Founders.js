@@ -9,7 +9,7 @@ import './Founders.css';
 
 export default function Founders() {
     return (
-        <div className="f-center center">
+        <div className="f-center center" id="founders">
             <h1 className="white-text f-heading smt">Founders</h1>
             <p className="white-text f-lead" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, minus amet. Omnis fugiat </p>
             <div className="f-founders container">

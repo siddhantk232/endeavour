@@ -30,9 +30,9 @@ export default function Contact() {
 
 
 	return (
-		<div className="wrapper">
+		<div className="wrapper" id="contact-us">
 			<div className="intro-text center white-text">
-				<h1 className="c-title">Contact Us!</h1>
+				<h1 className="c-title smt">Contact Us!</h1>
 				<p className="lead">Feel free to contact for any information or query about us.</p>
 			</div>
 			<div className="contact-area white-text">

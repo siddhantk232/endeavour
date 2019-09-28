@@ -8,6 +8,8 @@ import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import Navbar from './components/Navbar/Navbar'
 
+import Achievments from './components/Achievments/Achievments'
+
 
 import './App.css';
 import Projects from './components/Projects/Projects';
@@ -20,6 +22,7 @@ function App() {
       <Hero />
       <About />
       <Projects />
+      <Achievments />
       <Founders />
       <Testimonial />
       <Contact />
