@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42d403f461c705dc20cd9f0af9696766",
+    "revision": "aedfde2301ea0f91d578d0b38eb1d98c",
     "url": "/endeavour/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/endeavour/static/css/2.16aca965.chunk.css"
   },
   {
-    "revision": "07f4779f54daa9fa6844",
-    "url": "/endeavour/static/css/main.50894043.chunk.css"
+    "revision": "91b2f3f1b142cfbd9d7c",
+    "url": "/endeavour/static/css/main.ff02d5c5.chunk.css"
   },
   {
     "revision": "d15fd17946dadc8ff5e5",
     "url": "/endeavour/static/js/2.69b19db3.chunk.js"
   },
   {
-    "revision": "07f4779f54daa9fa6844",
-    "url": "/endeavour/static/js/main.1d644d87.chunk.js"
+    "revision": "91b2f3f1b142cfbd9d7c",
+    "url": "/endeavour/static/js/main.3d252ac5.chunk.js"
   },
   {
     "revision": "147a801eb13677fb4d23",
