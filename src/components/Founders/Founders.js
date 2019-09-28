@@ -14,10 +14,7 @@ export default function Founders() {
             <p className="white-text f-lead" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, minus amet. Omnis fugiat </p>
             <div className="f-founders container">
                 <div className="about-testimonials white-text">
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere cumque, minus dicta distinctio ea nihil autem corrupti vel magni porro molestias dolores id eum provident quam omnis! Quia, saepe eos!</p>
-                    <br />
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae voluptates ratione iure sequi eos recusandae quod, voluptatem fugit dolorum exercitationem nobis blanditiis illum iste doloribus quam, distinctio molestias minus nesciunt!</p><br />
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates vel ipsum suscipit culpa quae eligendi in illum. Architecto animi magnam sequi vitae error dolore quasi necessitatibus, natus culpa repellendus officia.</p>
+                    <p>Building a house from raw cement and mere bricks and making it a home for more than 40+members is what defines our team, the foundation of which was laid by the committed and capable 'cuigear' of our team . The leadership of our founding members are defined by the inexplicable work done by them. The ones who always walked beside us rather walking ahead. The ones whose passion, level of commitment, hard work, sheer determination and burning midnight's oil actually sparkled the pavements for future endeavour</p>
                 </div>
 
                 <OwlCarousel
@@ -25,7 +22,7 @@ export default function Founders() {
                     loop
                     items={1}
                     nav={true}
-                    margin={30}
+                    margin={5}
                 >
                     <div className="item">
                         <Card />

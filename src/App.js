@@ -10,6 +10,7 @@ import Navbar from './components/Navbar/Navbar'
 
 
 import './App.css';
+import Projects from './components/Projects/Projects';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+      <Projects />
       <Founders />
       <Testimonial />
       <Contact />
