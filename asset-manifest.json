@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/endeavour/static/css/main.ff02d5c5.chunk.css",
-    "main.js": "/endeavour/static/js/main.3d252ac5.chunk.js",
-    "main.js.map": "/endeavour/static/js/main.3d252ac5.chunk.js.map",
+    "main.css": "/endeavour/static/css/main.bf6c509e.chunk.css",
+    "main.js": "/endeavour/static/js/main.cda144dd.chunk.js",
+    "main.js.map": "/endeavour/static/js/main.cda144dd.chunk.js.map",
     "runtime-main.js": "/endeavour/static/js/runtime-main.abfba13a.js",
     "runtime-main.js.map": "/endeavour/static/js/runtime-main.abfba13a.js.map",
     "static/css/2.16aca965.chunk.css": "/endeavour/static/css/2.16aca965.chunk.css",
-    "static/js/2.69b19db3.chunk.js": "/endeavour/static/js/2.69b19db3.chunk.js",
-    "static/js/2.69b19db3.chunk.js.map": "/endeavour/static/js/2.69b19db3.chunk.js.map",
+    "static/js/2.4540b48e.chunk.js": "/endeavour/static/js/2.4540b48e.chunk.js",
+    "static/js/2.4540b48e.chunk.js.map": "/endeavour/static/js/2.4540b48e.chunk.js.map",
     "index.html": "/endeavour/index.html",
-    "precache-manifest.d12ac5cb30bd5f0dcb3efbd63adce4b1.js": "/endeavour/precache-manifest.d12ac5cb30bd5f0dcb3efbd63adce4b1.js",
+    "precache-manifest.3d4e394af970fa34c3136637a9e05dba.js": "/endeavour/precache-manifest.3d4e394af970fa34c3136637a9e05dba.js",
     "service-worker.js": "/endeavour/service-worker.js",
     "static/css/2.16aca965.chunk.css.map": "/endeavour/static/css/2.16aca965.chunk.css.map",
-    "static/css/main.ff02d5c5.chunk.css.map": "/endeavour/static/css/main.ff02d5c5.chunk.css.map",
+    "static/css/main.bf6c509e.chunk.css.map": "/endeavour/static/css/main.bf6c509e.chunk.css.map",
     "static/media/blue_robot_final.png": "/endeavour/static/media/blue_robot_final.be88052e.png",
     "static/media/end_hero.png": "/endeavour/static/media/end_hero.d825dd31.png",
+    "static/media/purple_robot_final.png": "/endeavour/static/media/purple_robot_final.a94c25f1.png",
     "static/media/red_robot_final.png": "/endeavour/static/media/red_robot_final.8ebb58f6.png"
   }
 }

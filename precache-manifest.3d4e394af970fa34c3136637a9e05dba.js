@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aedfde2301ea0f91d578d0b38eb1d98c",
+    "revision": "2d05583dd57babc2d47bbacd014767bf",
     "url": "/endeavour/index.html"
   },
   {
-    "revision": "d15fd17946dadc8ff5e5",
+    "revision": "b2fc7b27cda5d63820f1",
     "url": "/endeavour/static/css/2.16aca965.chunk.css"
   },
   {
-    "revision": "91b2f3f1b142cfbd9d7c",
-    "url": "/endeavour/static/css/main.ff02d5c5.chunk.css"
+    "revision": "80e68f6fa83fa80cb315",
+    "url": "/endeavour/static/css/main.bf6c509e.chunk.css"
   },
   {
-    "revision": "d15fd17946dadc8ff5e5",
-    "url": "/endeavour/static/js/2.69b19db3.chunk.js"
+    "revision": "b2fc7b27cda5d63820f1",
+    "url": "/endeavour/static/js/2.4540b48e.chunk.js"
   },
   {
-    "revision": "91b2f3f1b142cfbd9d7c",
-    "url": "/endeavour/static/js/main.3d252ac5.chunk.js"
+    "revision": "80e68f6fa83fa80cb315",
+    "url": "/endeavour/static/js/main.cda144dd.chunk.js"
   },
   {
     "revision": "147a801eb13677fb4d23",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d825dd319c236bdb7fcf1f064515ae96",
     "url": "/endeavour/static/media/end_hero.d825dd31.png"
+  },
+  {
+    "revision": "a94c25f112a322525d896a49443938d8",
+    "url": "/endeavour/static/media/purple_robot_final.a94c25f1.png"
   },
   {
     "revision": "8ebb58f681483c813ad0fcce519f096c",
