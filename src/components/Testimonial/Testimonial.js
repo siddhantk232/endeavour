@@ -10,7 +10,7 @@ import './Testimonial.css';
 export default function Testimonial() {
     return (
         <div className="f-center center">
-            <h1 className="white-text t-heading">Testimonials</h1>
+            <h1 className="white-text t-heading smt">Testimonials</h1>
             <p className="white-text t-lead" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, minus amet. Omnis fugiat </p>
             <div className="t-founders container">
                 <OwlCarousel

@@ -36,3 +36,39 @@
     display: flex;
 
 }
+
+@media only screen and (max-width: 726px) {
+
+    .vec {
+        display: none;
+    }
+
+    .about-section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .about-section {
+        width: 100%;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .mission-section {
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 526px) {
+
+    .smt {
+        font-size: 28px;
+        text-align: center;
+    }
+    
+}

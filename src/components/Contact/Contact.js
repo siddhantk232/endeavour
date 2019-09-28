@@ -1,12 +1,33 @@
-import React from 'react'
+import React, { useState } from 'react';
+
+import M from 'materialize-css'
 
 import './Contact.css'
 
 export default function Contact() {
 
+	let [name, setName] = useState('');
+	let [email, setEmail] = useState('');
+	let [message, setMessage] = useState('');
+
 	const handleSubmit = (e) => {
 		e.preventDefault();
+		M.toast({ html: 'Message Sent!' });
+		setName('');
+		setEmail('');
+		setMessage('');
 	}
+
+	const handleNameChange = (e) => {
+		setName(e.target.value);
+	}
+	const handleEmailChange = (e) => {
+		setEmail(e.target.value);
+	}
+	const handleMessageChange = (e) => {
+		setMessage(e.target.value);
+	}
+
 
 	return (
 		<div className="wrapper">
@@ -33,15 +54,15 @@ export default function Contact() {
 				<form className="white-text contact-form">
 					<div className="input-field">
 						<label htmlFor="name">Name</label>
-						<input className="white-text" type="text" name="name" id="name" />
+						<input onChange={handleNameChange} className="white-text" type="text" name="name" id="name" value={name} />
 					</div>
 					<div className="input-field">
 						<label htmlFor="name">Email</label>
-						<input type="Email" name="mail" id="mail" className="validate white-text" />
+						<input onChange={handleEmailChange} type="Email" name="mail" id="mail" className="validate white-text" value={email} />
 					</div>
 					<div className="input-field">
 						<label htmlFor="name">Message</label>
-						<textarea name="message" id="msg" className="bnone white-text" ></textarea>
+						<textarea onChange={handleMessageChange} name="message" id="msg" className="bnone white-text" value={message} ></textarea>
 					</div>
 					<div className="center">
 						<button type="submit" className="btn mbtn" onClick={handleSubmit}>Send</button>

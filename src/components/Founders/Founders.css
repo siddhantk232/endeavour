@@ -22,13 +22,38 @@
     margin-bottom: 5px;
 }
 .f-founders {
-    margin-top: 20px;
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
     align-items: center;
 }
+
+.f-heading {
+    margin-top: 50px;
+}
+.f-lead {
+    margin-bottom: 30px;
+}
 .about-testimonials {
     width: 55%;
     text-align: justify;
+}
+
+@media only screen and (max-width: 726px) {
+
+    .about-testimonials {
+        display: none;
+    }
+
+    .f-founders {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .owl-loaded {
+        width: 200%;
+    }
+
 }

@@ -21,3 +21,17 @@
 }
 
 
+@media only screen and (max-width: 405px) {
+
+    .heroImg1 {
+        height: 30%;
+        width: 33%;
+    }
+    
+    .heroImg2 {
+        top: 40%;
+        width: 55%;
+    }
+    
+}
+

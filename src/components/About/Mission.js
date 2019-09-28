@@ -5,7 +5,9 @@ import blueRobot from './blue_robot_final.png'
 export default function Mission() {
   return (
     <div className="about white-text">
-      <h1>Mission & Vision</h1>
+      <div className="container">
+        <h1 className="smt">Mission & Vision</h1>
+      </div>
       <div className="mission-section">
         <div className="vec">
           <img src={blueRobot} alt="robot" />
